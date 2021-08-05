@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Babatunde Xodeeq",
+    "occupation": "Software engineer and student",
+    "description": "I build solutions in form of softwares",
+    "image": "profile-photo.svg",
+    "bio": "Hey, I am Xodeeq! I have been writing computer programs for about {3} years now. I have sampled a lot of programming languages, but currently I work mainly with Python, Java and JavaScript. Lately, I just read books, try to build software solutions to as many problems and ideas that pop in my head, while studying to get a degree in Computer Science at one of the best online universities in the world. Oh, and I build cool clones with Sonny Sangha at #PAPAFAM.",
+    "contactmessage": "Hit me up if you have an interesting project to work on!",
+    "email": "xodeeq@yahoo.com",
+    "phone": "+234 8086246525",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Akinola, Bariga",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": "100001"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://moh-x.github.io/fcc-web-projects/project5.html",
+    "resumedownload": "https://gofile.io/d/SjToPn",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "name": "twitter",
+        "url": "https://www.twitter.com/mo_xodeeq",
+        "className": "fa fa-twitter"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/adenowo.babatunde",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/babatunde-adenowo",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/mo_xodeeq/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/moh-x",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +48,82 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "University of the People - USA",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2023",
+        "description": "Currently studying"
+      },
+      {
+        "school": "Yaba College of Technology - Nigeria",
+        "degree": "Diploma, Mechatronics Engineering",
+        "graduated": "March 2020",
+        "description": "Graduated with Upper Credits"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Xal LLC",
+        "title": "Founder and CTO",
+        "years": "August 2021 - Present",
+        "description": "Creating simple solutions to using softwares as the main tool."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
         "name": "Python",
-        "level": "85%"
+        "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Java",
+        "level": "75%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "80%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Django",
+        "level": "85%"
+      },
+      {
+        "name": "React",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Hulu Clone (React & Next JS)",
+        "category": "Frontend Build",
+        "image": "hulu-2.0.png",
+        "url": "https://hulu-2-0-chi.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Amazon Clone (React & Next JS)",
+        "category": "Fullstack Build",
+        "image": "amazon-2.0.png",
+        "url": "https://amazon-2-0-ashen.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Python Doc (HTML & CSS)",
+        "category": "Frontend Build",
+        "image": "doc-dark.png",
+        "url": "https://moh-x.github.io/fcc-web-projects/project4.html"
+      },
+      {
+        "title": "Learning Log (Django & Bootstrap)",
+        "category": "Fullstack Build",
+        "image": "the-log.png",
+        "url": "https://the-log.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Babatunde is always on hand and willing to help when you reach out to him, especially when it's a software problem.",
+        "user": "Eromosele Iriogbe"
       }
     ]
   }

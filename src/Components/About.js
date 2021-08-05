@@ -4,7 +4,8 @@ const About = ({ data }) => {
   if (data) {
     var name = data.name;
     var profilepic = "images/" + data.image;
-    var bio = data.bio;
+    var today = new Date();
+    var bio = data.bio.replace("{3}", today.getFullYear() - 2018);
     var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
@@ -21,7 +22,7 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Babatunde's Profile Pic"
           />
         </div>
         <div className="nine columns main-col">
@@ -47,7 +48,12 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
+                <a
+                  href={resumeDownload}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="button"
+                >
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
